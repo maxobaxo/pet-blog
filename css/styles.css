@@ -20,11 +20,21 @@ ul, ol {
 }
 
 p {
+  font-size: 25px;
   font-style: italic;
-  font: amatic sc;
+
 }
 
 img {
   display: block;
   margin: auto;
+}
+
+.list {
+  color: purple;
+}
+
+h3.fun {
+  font-style: italic;
+  color: lightcoral;
 }
