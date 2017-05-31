@@ -41,11 +41,11 @@ img {
   text-align: center;
 }
 
-.profile-about {
+.profile-photo {
   display: block;
   margin: auto;
   width: 100%;
-  text-align: left;
+  text-align: center;
 }
 
 #profile-photo {
