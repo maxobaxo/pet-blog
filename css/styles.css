@@ -28,6 +28,7 @@ ul, ol {
 
 p {
   font-style: italic;
+  margin-bottom: 0;
 }
 
 img {
@@ -93,4 +94,8 @@ h3.fun {
 
 .day-mode-text {
   color: default;
+}
+
+.panel-footer, .panel-body {
+  padding-bottom: 1%;
 }
