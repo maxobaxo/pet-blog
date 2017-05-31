@@ -37,3 +37,11 @@ h3.fun {
   font-style: italic;
   color: lightcoral;
 }
+
+.night-mode {
+  background-color: black;
+}
+
+.day-mode {
+  background-color: white;
+}
