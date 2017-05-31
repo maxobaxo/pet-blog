@@ -38,6 +38,11 @@ h3.fun {
   color: lightcoral;
 }
 
+.button {
+  display: block;
+  text-align: center;
+}
+
 .night-mode {
   background-color: black;
 }
