@@ -7,6 +7,12 @@ h1 {
   font-weight: bolder;
   color: charcoal;
   text-decoration: underline;
+  margin: 0% 2% 2% 0%;
+  padding-bottom: 0;
+}
+
+.jumbotron {
+  padding-bottom: 2%;
 }
 
 h2 {
@@ -20,7 +26,6 @@ ul, ol {
 }
 
 p {
-  font-size: 25px;
   font-style: italic;
 }
 
@@ -29,13 +34,37 @@ img {
   margin: auto;
 }
 
+.profile-photo {
+  display: block;
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+
+#profile-photo {
+  width: 100%;
+}
+
+.panel-body {
+  padding-bottom: 0%;
+}
+
+.panel-footer {
+  padding-bottom: 0%;
+}
+
 .list {
   color: purple;
+  display: block;
+  text-align: center;
+  font-size: 17px;
 }
 
 h3.fun {
   font-style: italic;
   color: lightcoral;
+  display: block;
+  text-align: center;
 }
 
 .button {
@@ -47,6 +76,14 @@ h3.fun {
   background-color: black;
 }
 
+.night-mode-text {
+  color: white;
+}
+
 .day-mode {
   background-color: white;
+}
+
+.day-mode-text {
+  color: black;
 }
